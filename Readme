@@ -1,0 +1,7 @@
+ClickNBuild is a user-friendly platform designed to connect clients with builders seamlessly. Clients can easily post construction projects and receive bids from multiple builders. Through the client dashboard, users can track their projects (active, pending, completed), review proposals, manage payments, and read feedback from builders. Clients also benefit from transparent pricing by viewing construction material costs directly posted by vendors in our marketplace.
+Builders have their dedicated dashboard to manage bids, view projects posted by clients, submit proposals, track payment statuses, read client reviews, and explore the marketplace for construction materials. Builders and Clients can also keep their profiles updated directly on the platform.
+Reviews can only be exchanged once a project is marked as completed, which requires both the client and the builder to confirm completion by clicking the "Complete Project" button.
+Payments are handled using Stripe API. This is version 1 of our website and currently it is not yet responsive for mobile devices. However, we are actively working on fixing bugs and making the platform fully functional and responsive in future updates.
+Our frontend is built using HTML, CSS, and JavaScript, while the backend is powered by Python (Flask). The project is hosted using PythonAnywhere's free hosting service.
+
+By Dilawar Khan 
